@@ -1,0 +1,59 @@
+        *{
+            margin:0px;
+            padding:0px;
+        }
+        @media screen,print{
+        #l2{
+            top:10px;
+           left:100px;
+        }
+        #head{
+          
+            text-align:center;
+            height:150px; 
+            background-color:teal;
+            
+        }
+        #un{
+            font-size:105px;
+            /* position:absolute; */
+        }
+        #cotesion{
+            font-size:20px;
+            /* position:absolute; */
+        }
+        #img4{
+            top:0px;
+            left:0px;
+           height: 150px;
+           width: 150px;
+            position:absolute;
+        }
+        #img2{
+            top:0px;
+            right:0px;
+           height: 150px;
+           width: 150px;
+            position:absolute;
+        }
+        #camp{
+            height:600px;
+            width: 95em;
+        }
+         .a1{
+            background-color:rgb(16, 182, 162);
+        }
+        a{
+            text-decoration: none;
+            color:rgb(68, 54, 54);
+            display: inline-block; 
+        }
+        #back{
+            left:500px;
+            top:200px;
+            position: absolute;
+            opacity: 0.1;
+            height: 500px;
+            width:500px;
+        }
+    }

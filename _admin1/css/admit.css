@@ -1,0 +1,57 @@
+#img3{
+   top: 120px;
+   right:10px;
+   width:130px;
+   height:150px;
+   position:absolute;
+     }
+     #form-container{
+       border:2px solid red;
+       height: 600px;
+       width: 600px;
+       position: relative;
+       background-color:silver;
+       margin:auto;
+             }
+     #container{
+       left:30px;
+       width:300px;
+       text-align:center;
+       height:200px;
+       margin: auto;
+       position: absolute;
+       margin-top:30px;
+     }
+     #sub{
+       position: absolute;
+       bottom:0px;
+      right:250px;
+     }
+     #p{
+      top:430px;
+     position: absolute;
+     text-align: left;
+     }
+     #header{
+       font-size: 63px;
+       background-color: teal;
+       left:0px;
+       top:0px;
+     }
+     #logo{
+       top:0px;
+       right: 10px;
+       height:50px;
+       width:50px;
+     }
+     #p1{
+      bottom:10px;
+     position: absolute;
+     text-align: left;
+     background-color: red;
+     }
+     #notice{
+      background-color: rgb(252, 255, 240);
+      bottom:10px;
+      position: absolute;
+     }
